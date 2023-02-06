@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"graphtool"},{"l":"graphtool.algorithm"},{"l":"graphtool.graph"},{"l":"graphtool.gui"},{"l":"graphtool.gui.components"},{"l":"graphtool.res"},{"l":"graphtool.utils"}]
