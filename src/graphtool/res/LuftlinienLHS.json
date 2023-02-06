@@ -1,0 +1,166 @@
+[ {
+  "Berlin" : {
+    "Bremen" : 315,
+    "Dresden" : 165,
+    "Düsseldorf" : 476,
+    "Erfurt" : 238,
+    "Hamburg" : 255,
+    "Hannover" : 249,
+    "Kiel" : 349,
+    "Magdeburg" : 128,
+    "Mainz" : 454,
+    "München" : 504,
+    "Potsdam" : 27,
+    "Saarbrücken" : 578,
+    "Schwerin" : 181,
+    "Stuttgart" : 512,
+    "Wiesbaden" : 449
+  }
+}, {
+  "Bremen" : {
+    "Dresden" : 405,
+    "Düsseldorf" : 248,
+    "Erfurt" : 278,
+    "Hamburg" : 94,
+    "Hannover" : 100,
+    "Kiel" : 163,
+    "Magdeburg" : 218,
+    "Mainz" : 343,
+    "München" : 582,
+    "Potsdam" : 296,
+    "Saarbrücken" : 445,
+    "Schwerin" : 183,
+    "Stuttgart" : 478,
+    "Wiesbaden" : 334
+  }
+}, {
+  "Dresden" : {
+    "Düsseldorf" : 485,
+    "Erfurt" : 189,
+    "Hamburg" : 377,
+    "Hannover" : 312,
+    "Kiel" : 437,
+    "Magdeburg" : 188,
+    "Mainz" : 403,
+    "München" : 359,
+    "Potsdam" : 156,
+    "Saarbrücken" : 520,
+    "Schwerin" : 327,
+    "Stuttgart" : 412,
+    "Wiesbaden" : 402
+  }
+}, {
+  "Düsseldorf" : {
+    "Erfurt" : 298,
+    "Hamburg" : 338,
+    "Hannover" : 240,
+    "Kiel" : 411,
+    "Magdeburg" : 350,
+    "Mainz" : 172,
+    "München" : 486,
+    "Potsdam" : 451,
+    "Saarbrücken" : 222,
+    "Schwerin" : 412,
+    "Stuttgart" : 321,
+    "Wiesbaden" : 164
+  }
+}, {
+  "Erfurt" : {
+    "Hamburg" : 294,
+    "Hannover" : 178,
+    "Kiel" : 376,
+    "Magdeburg" : 135,
+    "Mainz" : 223,
+    "München" : 318,
+    "Potsdam" : 211,
+    "Saarbrücken" : 346,
+    "Schwerin" : 295,
+    "Stuttgart" : 278,
+    "Wiesbaden" : 220
+  }
+}, {
+  "Hamburg" : {
+    "Hannover" : 132,
+    "Kiel" : 85,
+    "Magdeburg" : 192,
+    "Mainz" : 412,
+    "München" : 612,
+    "Potsdam" : 242,
+    "Saarbrücken" : 523,
+    "Schwerin" : 94,
+    "Stuttgart" : 533,
+    "Wiesbaden" : 404
+  }
+}, {
+  "Hannover" : {
+    "Kiel" : 218,
+    "Magdeburg" : 132,
+    "Mainz" : 282,
+    "München" : 488,
+    "Potsdam" : 226,
+    "Saarbrücken" : 397,
+    "Schwerin" : 179,
+    "Stuttgart" : 401,
+    "Wiesbaden" : 274
+  }
+}, {
+  "Kiel" : {
+    "Magdeburg" : 263,
+    "Mainz" : 497,
+    "München" : 694,
+    "Potsdam" : 288,
+    "Saarbrücken" : 605,
+    "Schwerin" : 113,
+    "Stuttgart" : 619,
+    "Wiesbaden" : 488
+  }
+}, {
+  "Magdeburg" : {
+    "Mainz" : 334,
+    "München" : 444,
+    "Potsdam" : 101,
+    "Saarbrücken" : 458,
+    "Schwerin" : 167,
+    "Stuttgart" : 411,
+    "Wiesbaden" : 328
+  }
+}, {
+  "Mainz" : {
+    "München" : 317,
+    "Potsdam" : 427,
+    "Saarbrücken" : 124,
+    "Schwerin" : 457,
+    "Stuttgart" : 150,
+    "Wiesbaden" : 9
+  }
+}, {
+  "München" : {
+    "Potsdam" : 485,
+    "Saarbrücken" : 356,
+    "Schwerin" : 610,
+    "Stuttgart" : 190,
+    "Wiesbaden" : 324
+  }
+}, {
+  "Potsdam" : {
+    "Saarbrücken" : 551,
+    "Schwerin" : 175,
+    "Stuttgart" : 486,
+    "Wiesbaden" : 422
+  }
+}, {
+  "Saarbrücken" : {
+    "Schwerin" : 576,
+    "Stuttgart" : 166,
+    "Wiesbaden" : 129
+  }
+}, {
+  "Schwerin" : {
+    "Stuttgart" : 561,
+    "Wiesbaden" : 450
+  }
+}, {
+  "Stuttgart" : {
+    "Wiesbaden" : 159
+  }
+} ]
