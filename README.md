@@ -24,6 +24,8 @@ Im Rahmen einer Abschlussarbeit im Studiengang Master of Science in Praktischer 
 
 Das Werkzeug ist erweiterbar konstruiert, so dass weitere Algorithmen hinzugefügt werden können oder, beispielsweise für den A*-Algorithmus, andere Heuristiken. Quellcode und Javadoc sind nicht Bestandteil der gedruckten Arbeit, sondern liegen hier auf Github vor.
 
+Die Javadoc-Dokumentation findet sich auf [Github Pages](https://v-r-b.github.io/graphtool/).
+
 ## Benutzung
 
 Zur Ausführung der Anwendung kann das Repository geklont und lokal verwendet werden. Die Klasse mit der main()-Methode heißt "graphtool.GraphTool" Im Klassenpfad müssen sich folgende Bibliotheken befinden:
